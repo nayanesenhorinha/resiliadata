@@ -4,8 +4,13 @@
 Este projeto consiste no desenvolvimento de um banco de dados para o sistema RESILIADATA, que visa auxiliar na avaliação das tecnologias utilizadas pelas empresas parceiras, bem como identificar seus colaboradores. O banco de dados inclui o cadastro de empresas parceiras, tecnologias, colaboradores e suas respectivas áreas de atuação.
 
 ## Diagrama Conceitual e Lógico
-![Diagrama conceitual](https://files.tecnoblog.net/wp-content/uploads/2022/09/stable-diffusion-imagem.jpg)
-![Diagrama conceitual](https://files.tecnoblog.net/wp-content/uploads/2022/09/stable-diffusion-imagem.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nayanesenhorinha/resiliadata/main/diagramaConceitual.jpg" alt="Diagrama conceitual">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nayanesenhorinha/resiliadata/main/diagramaLogico.png" alt="Diagrama conceitual">
+</p>
 
 ## Perguntas Propostas
 
