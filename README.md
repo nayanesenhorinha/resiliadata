@@ -72,12 +72,18 @@ Este projeto consiste no desenvolvimento de um banco de dados para o sistema RES
 | 2           | 98765432101   | Maria Souza   | Analista     | 2          | 2       |
 
 ### Tabela Área
-| Tecnologia | Nome           | Id_Area |
-|------------|----------------|---------|
-| 1          | Java           | 1       |
-| 2          | Python         | 1       |
+| Id_Area | Nome       |
+|---------|------------|
+| 1       | Webdev     |
+| 2       | Dados      |
 
 ### Tabela Tecnologia
+| Id_Tecnologia | Nome           | Id_Area |
+|---------------|----------------|---------|
+| 1             | Java           | 1       |
+| 2             | Python         | 1       |
+
+### Tabela Empresa-Tecnologia
 | Empresa_Tecnologia | Id_Empresa | Id_Tecnologia |
 |--------------------|------------|---------------|
 | 1                  | 1          | 1             |
